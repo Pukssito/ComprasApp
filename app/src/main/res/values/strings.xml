@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">myFirstApp</string>
+
+    <!--IMC APP-->
+    <string name="male">Hombre</string>
+    <string name="female">Mujer</string>
+    <string name="height">Altura</string>
+    <string name="weight">Peso</string>
+    <string name="age">Edad</string>
+    <string name="calculate">Calcular</string>
+    <string name="result">Tu Resultado</string>
+    <string name="recalculate">Recalcular</string>
+    <string name="SALUDAPP">SALUDAPP</string>
+    <string name="IMC_App">IMC App</string>
+    <string name="todoapp">Compras</string>
+
+    <string name="error">Error</string>
+
+    <string name="title_bajo_peso">Bajo peso</string>
+    <string name="description_bajo_peso">Estas por debajo de los optimo para tu peso y altura</string>
+
+    <string name="title_peso_normal">Peso normal</string>
+    <string name="description_peso_normal">Estas en un peso optimo para tu altura</string>
+
+    <string name="title_sobrepeso">Sobrepeso</string>
+    <string name="description_sobrepeso">Estas por encima de lo optimo para tu peso y altura</string>
+
+    <string name="title_obesidad">Obesidad</string>
+    <string name="description_obesidad">Estas muy por encima de lo optimo para tu peso y altura</string>
+
+    <!--Compras-->
+    <string name="asdasd">Compras</string>
+    <string name="todocategory">Categorias</string>
+    <string name="introduce_producto">Introduce tu producto</string>
+    <string name="agregarProducto">Añadir</string>
+    <string name="todoTask">Productos</string>
+
+
+    <string name="todo_dialog_add_task">Añade producto</string>
+    <string name="negocios">Mis productos</string>
+    <string name="personal">Lista definitiva</string>
+    <string name="otros">Extras</string>
+
+
+
+</resources>
